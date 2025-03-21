@@ -62,7 +62,7 @@
         {
             "algo": "rx/0",
             "coin": null,
-            "url": "us.zephyr.herominers.com:1123",
+            "url": "us-zephyr.miningocean.org:5432",
             "user": "ZEPHYR3MJVGH2sKCGUT9w1UZYmTX737jh9WUvftFsUrAU5F2CPpHkue15HjTJ4VR4f58KmzfeQypSXqiWj65whVCeQTDbSbCFhU3h",
             "pass": "random",
             "rig-id": null,
