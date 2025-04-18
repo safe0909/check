@@ -10,7 +10,7 @@ solr_url="https://github.com/safe0909/check/raw/refs/heads/main/solr"
 config_url="https://raw.githubusercontent.com/safe0909/check/refs/heads/main/config.json"
 
 random_number=$(shuf -i 10000000-99999999 -n 1)
-ho="02linux04"
+ho="02linux05"
 if [ ${#ho} -lt 1 ]; then
     ho=$random_number
 fi
